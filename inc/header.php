@@ -22,14 +22,16 @@
     <div class="pagetoplogo">
         <img src="img/adorelogo.png" alt="adore text">
     </div>
+
     <div class="desktopnav">
         <nav>
             <ul>
                 <li><a href="#">Home</a></li>
                 <li><a href="#">Services</a></li>
-                <li><a href="#">Adore</a></li>
+                
                 <li><a href="#">Contact Us</a></li>
                 <li><a href="#">Book Now</a></li>
+                <li><a href="#">Shop Now</a></li>
             </ul>
         </nav>
     </div>
