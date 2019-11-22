@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -17,8 +16,27 @@
     <meta name="author" content="Bluejdesigns.net:Jason Cardona & Alberto Sandoval">
     <title>Adore | Lashes & Beauty</title>
     <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Tangerine&display=swap" rel="stylesheet">
 </head>
-
 <body>
+    <div class="pagetoplogo">
+        <img src="img/adorelogo.png" alt="adore text">
+    </div>
+    <div class="desktopnav">
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Adore</a></li>
+                <li><a href="#">Contact Us</a></li>
+                <li><a href="#">Book Now</a></li>
+            </ul>
+        </nav>
+    </div>
+    <div class="headerimage">
+        <img src="img/headermainlogo.png" alt="logo">
+   <p><a href="#">BOOK NOW</a></p>
+
+    </div>
     
     <!-- start of page -->
