@@ -17,6 +17,7 @@
     <title>Adore | Lashes & Beauty</title>
     <link rel="stylesheet" href="css/style.css">
     <link href="https://fonts.googleapis.com/css?family=Tangerine&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display&display=swap" rel="stylesheet">
 </head>
 <body>
     <div class="pagetoplogo">
